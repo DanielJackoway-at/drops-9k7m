@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Hard Fork (Ad-Free)</title>
     <description>Hard Fork podcast, ad-free. Personal use only.</description>
@@ -7,5 +7,18 @@
     <language>en-us</language>
     <itunes:author>The New York Times</itunes:author>
     <itunes:image href="https://image.simplecastcdn.com/images/4105a47a-42e5-4ccc-887a-832af7989986/23965394-f5e4-4fdb-b150-639f4910353e/3000x3000/nyt-hf-album-art-3000-2.jpg" />
+    <item>
+      <title>A.I. Safety Is So Back + Mythos Mayhem with Nikesh Arora + Hot Mess Express (Ad-Free)</title>
+      <guid isPermaLink="false">a6a28c49-6456-487a-861d-92ce61e17798</guid>
+      <pubDate>Fri, 15 May 2026 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;em&gt;[Ad-Free version — removed: Lareden pre-roll (44s), Wix+Trimfya mid-roll (81s), Liberty Mutual post-roll (24s)]&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;This week, between the president&apos;s negotiations in China and a potential executive order, we discuss why the Trump administration seems to be changing its tune on A.I. safety. Then, Nikesh Arora, chief executive of Palo Alto Networks, gives us a firsthand account of where we stand in the race to secure the internet. And finally, we run through some of the wildest headlines of the week in a round of Hot Mess Express.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Guest:&lt;/strong&gt; &lt;a href="https://www.paloaltonetworks.com/about-us/management"&gt;Nikesh Arora&lt;/a&gt;, CEO of Palo Alto Networks.&lt;/p&gt;</description>
+      <itunes:author>The New York Times</itunes:author>
+      <itunes:duration>1:10:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://image.simplecastcdn.com/images/4105a47a-42e5-4ccc-887a-832af7989986/23965394-f5e4-4fdb-b150-639f4910353e/3000x3000/nyt-hf-album-art-3000-2.jpg" />
+      <enclosure url="https://pub.staging-hyperagent.com/api/published/pbf01KRP1NQV7_MGFESN177ZB6X1S0/hf-2026-05-15.mp3" length="42527774" type="audio/mpeg" />
+    </item>
   </channel>
 </rss>
