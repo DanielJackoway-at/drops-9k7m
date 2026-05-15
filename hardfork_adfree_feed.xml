@@ -8,30 +8,17 @@
     <itunes:author>The New York Times</itunes:author>
     <itunes:image href="https://image.simplecastcdn.com/images/4105a47a-42e5-4ccc-887a-832af7989986/23965394-f5e4-4fdb-b150-639f4910353e/3000x3000/nyt-hf-album-art-3000-2.jpg" />
     <item>
-      <title>Money Stuff: Frisky Dentists (Ad-Free)</title>
-      <guid isPermaLink="false">27a48384-84de-4007-bab3-b44b00ea363f</guid>
-      <pubDate>Fri, 15 May 2026 14:22:11 +0000</pubDate>
-      <description>&lt;p&gt;&lt;em&gt;[Ad-Free version — removed: Janus Henderson/Amazon Health AI/IBM pre-roll (95s), Janus Henderson/Amazon Health AI/Oppenheimer mid-rolls ×2 (205s), Organic Valley/travel/Brightview post-roll (154s) — total ~7.6 min cut]&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Katie and Matt discuss GameStop buying (?) eBay, authorized shares, socks, activism, negging, CDOs, CLOs, structured finance innovations, trading private credit, daily pricing, bad ways to own Anthropic stock, suing dentists and human assembly lines.&lt;/p&gt;
-&lt;p&gt;See &lt;a href=&quot;https://omnystudio.com/listener&quot;&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</description>
-      <itunes:author>Bloomberg</itunes:author>
-      <itunes:duration>29:25</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/ee4336cb-155f-4488-90e0-b1400134e40e/image.jpg?t=1711565317&amp;size=Large" />
-      <enclosure url="https://pub.staging-hyperagent.com/api/published/pbf01KRP5F0X5_P9NKG8XQNJYKMMSE/ms-2026-05-15.mp3" length="28238819" type="audio/mpeg" />
-    </item>
-    <item>
       <title>A.I. Safety Is So Back + Mythos Mayhem with Nikesh Arora + Hot Mess Express (Ad-Free)</title>
       <guid isPermaLink="false">a6a28c49-6456-487a-861d-92ce61e17798</guid>
       <pubDate>Fri, 15 May 2026 11:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;em&gt;[Ad-Free version — removed: Lareden pre-roll (44s), Wix+Trimfya mid-roll (81s), Liberty Mutual post-roll (24s)]&lt;/em&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;em&gt;[Ad-Free version — removed: Lareden pre-roll (44s), Freedom From Religion + Tremfya mid-roll (80s), Wix+Trimfya mid-roll (81s), Liberty Mutual post-roll (24s) — 229s total]&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;This week, between the president&apos;s negotiations in China and a potential executive order, we discuss why the Trump administration seems to be changing its tune on A.I. safety. Then, Nikesh Arora, chief executive of Palo Alto Networks, gives us a firsthand account of where we stand in the race to secure the internet. And finally, we run through some of the wildest headlines of the week in a round of Hot Mess Express.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Guest:&lt;/strong&gt; &lt;a href="https://www.paloaltonetworks.com/about-us/management"&gt;Nikesh Arora&lt;/a&gt;, CEO of Palo Alto Networks.&lt;/p&gt;</description>
       <itunes:author>The New York Times</itunes:author>
-      <itunes:duration>1:10:52</itunes:duration>
+      <itunes:duration>1:09:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://image.simplecastcdn.com/images/4105a47a-42e5-4ccc-887a-832af7989986/23965394-f5e4-4fdb-b150-639f4910353e/3000x3000/nyt-hf-album-art-3000-2.jpg" />
-      <enclosure url="https://pub.staging-hyperagent.com/api/published/pbf01KRP1NQV7_MGFESN177ZB6X1S0/hf-2026-05-15.mp3" length="42527774" type="audio/mpeg" />
+      <enclosure url="https://pub.staging-hyperagent.com/api/published/pbf01KRP1NQV7_MGFESN177ZB6X1S0/hf-2026-05-15.mp3" length="41726860" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
