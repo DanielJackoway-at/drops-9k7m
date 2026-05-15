@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hard Fork (Ad-Free)</title>
+    <description>Hard Fork podcast, ad-free. Personal use only.</description>
+    <link>https://www.nytimes.com/column/hard-fork</link>
+    <language>en-us</language>
+    <itunes:author>The New York Times</itunes:author>
+    <itunes:image href="https://image.simplecastcdn.com/images/4105a47a-42e5-4ccc-887a-832af7989986/23965394-f5e4-4fdb-b150-639f4910353e/3000x3000/nyt-hf-album-art-3000-2.jpg" />
+  </channel>
+</rss>
